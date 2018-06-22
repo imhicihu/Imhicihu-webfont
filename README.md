@@ -17,7 +17,7 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 * Dependencies
     - No dependencies
 * Database configuration
-    - No database was made for this project
+    - No database was or it will be made for this project
 * How to run tests
     - Once you visit [IMHICIHU](http://www.imhicihu-conicet.gob.ar/) website, the browser will downnload the webfont to your computer, hence, once you visit us again it will load more swiftly
 * Deployment instructions
@@ -25,11 +25,11 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 
 ### Issues ###
 
-* Check them on [here](hhttps://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/issues)
+* Check them on [here](https://bitbucket.org/imhicihu/imhicihu-webfont/issues)
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
+* Please check the [Commits](https://bitbucket.org/imhicihu/imhicihu-webfont/commits/https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
 
 ### Contribution guidelines ###
 
