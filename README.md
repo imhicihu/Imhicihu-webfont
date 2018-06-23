@@ -19,7 +19,7 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 * Database configuration
     - No database was or it will be made for this project
 * How to run tests
-    - Once you visit [IMHICIHU](http://www.imhicihu-conicet.gob.ar/) website, the browser will downnload the webfont to your computer, hence, once you visit us again it will load more swiftly
+    - Once you visit [IMHICIHU](http://www.imhicihu-conicet.gob.ar/) website, the browser will download the webfont to your computer, hence, once you visit us again it will load more swiftly
 * Deployment instructions
     - Once it is available, just download it from our `Download` section
 
