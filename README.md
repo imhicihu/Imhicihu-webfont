@@ -1,3 +1,6 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![stability-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+
 # RATIONALE #
 
 Font for internal use (firstly). Then, once passed a myriad of bona fide criticism can convert in an open source, time it will judge!
