@@ -32,7 +32,7 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/imhicihu-webfont/commits/https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
+* Please check the [Commits](https://bitbucket.org/imhicihu/imhicihu-webfont/commits/) section for the current status
 
 ### Contribution guidelines ###
 
@@ -48,7 +48,7 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/imhicihu-webfont/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 
 ### Legal ###
@@ -57,4 +57,4 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 
 ### Licence ###
 
-* The content of this project itself is licensed under the {XXXXXXXXXXXXXX}  
+* The content of this project itself is licensed under the MIT License.  
