@@ -27,6 +27,11 @@ Mainly, a font for internal use (as a way to automatize some graphical tasks), t
 * Deployment instructions
     - Once it is available, just download it from our `Download` section
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Cuneiform fonts migration from pc to mac environment (and viceversa)](https://bitbucket.org/imhicihu/cuneiform-fonts-migration-from-pc-to-mac-environment-and/src/)
+
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/imhicihu-webfont/issues)
