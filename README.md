@@ -1,9 +1,10 @@
-![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-![stability-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
 
-Font for internal use (firstly). Then, once passed a myriad of bona fide criticism can convert in an open source, time it will judge!
+Mainly, a font for internal use (as a way to automatize some graphical tasks), then a way to by-pass Google penalization of website accesing. Then, once passed a myriad of _bona-fide_ criticism it can convert in an open source, time it will judge!
 
 ### What is this repository for? ###
 
@@ -50,11 +51,10 @@ Font for internal use (firstly). Then, once passed a myriad of bona fide critici
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/imhicihu-webfont/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
-
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
 
 ### Licence ###
 
-* The content of this project itself is licensed under the MIT License.  
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png).  
