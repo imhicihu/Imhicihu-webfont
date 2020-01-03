@@ -12,7 +12,7 @@
     - Font management:
         - [FontBase](https://fontba.se/)
     - Font conversion
-        - [Fontplop](http://www.fontplop.com/): an OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, ttf, svg, and eot
+        - [Fontplop](http://www.fontplop.com/): an OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: `woff2`, `woff`, `ttf`, `svg`, and `eot`
     - Font testing
         - [Font inter/lab](https://rsms.me/inter/lab/?sample=Default&repertoireOrder=&size=13&weight=400&letterSpacing=0&antialias=greyscale&text-decoration=none&text-transform=none&variantLigatures=normal&variantCaps=normal&variantNumeric=normal&rasterizePhrase=Account%20expiration): font testing, kerning _et alia_
 
