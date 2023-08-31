@@ -1,3 +1,4 @@
+### Technical requirements
 * Software:
     - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
