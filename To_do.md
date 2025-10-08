@@ -1,1 +1,0 @@
-* verify (or meet this guidelines): --> http://unifiedfontobject.org/
