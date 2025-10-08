@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="images/H31YG5h5QuKk-vi0WgzAEA.webp?raw=true" alt="Logotipo de Imhicihu-webfont"/>
+</p>
+
 ![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+
+---
 
 # RATIONALE #
 
