@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/H31YG5h5QuKk-vi0WgzAEA.webp?raw=true" alt="Logotipo de Imhicihu-webfont"/>
+  <img src="images/text-t5-embs_49Do0y2dRBaUy48dDExljg_AHfNcR4-RliyWHZL5qMH6Q.jpg?raw=true" alt="Logotipo de Imhicihu-webfont"/>
 </p>
 
 ![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
