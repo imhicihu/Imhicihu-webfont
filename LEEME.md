@@ -66,11 +66,8 @@ Principalmente, una fuente para uso interno (como forma de automatizar algunas t
 
 ### Aspectos legales ###
 
-* Todas las marcas comerciales son propiedad de sus respectivos propietarios.
+* Todas las marcas comerciales son propiedad de sus respectivos propietarios
 
 ### Licencia ###
 
-* El contenido de este proyecto está bajo la ![Licencia MIT](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png).  
-
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
+* El contenido de este proyecto está bajo la ![Licencia MIT](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
