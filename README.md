@@ -15,7 +15,7 @@ Mainly, a font for internal use (as a way to automatize some graphical tasks), t
 ### What is this repository for? ###
 
 * Quick summary
-    - Creation of a webfont to minimize our bandwidth to access the [IMHICIHU](http://www.imhicihu-conicet.gob.ar/) website. 
+    - Creation of a webfont to minimize our bandwidth to access the [IMHICIHU](https://imhicihu.conicet.gov.ar/) website. 
 * Version 1.01
 
 ### How do I get set up? ###
