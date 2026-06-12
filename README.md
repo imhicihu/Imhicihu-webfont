@@ -36,7 +36,7 @@ Mainly, a font for internal use (as a way to automatize some graphical tasks), t
 ### Related repositories ###
 
 * Some repositories linked with this project:
-     - [Cuneiform fonts migration from pc to mac environment (and viceversa)](https://bitbucket.org/imhicihu/cuneiform-fonts-migration-from-pc-to-mac-environment-and/src/)
+     - [Cuneiform fonts migration from pc to mac environment (and viceversa)](https://github.com/imhicihu/Cuneiform-fonts-migration)
 
 ### Issues ###
 
