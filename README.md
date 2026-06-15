@@ -8,7 +8,7 @@
 
 ---
 
-# RATIONALE #
+# Rationale / [Motivación](LEEME.md)
 
 Mainly, a font for internal use (as a way to automatize some graphical tasks), then a way to by-pass Google penalization of website accesing. Then, once passed a myriad of _bona-fide_ criticism it can convert in an open source, time it will judge!
 
